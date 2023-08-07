@@ -17,4 +17,4 @@ jobs:
       - name: Testing AWS S3 LS
         run: aws s3 ls
       - name: Copying Local to AWS S3 Bucket
-        run: aws s3 cp *.yml s3://bkt-mujahed-githubactions/
+        run: aws s3 cp *.txt s3://bkt-mujahed-githubactions/
