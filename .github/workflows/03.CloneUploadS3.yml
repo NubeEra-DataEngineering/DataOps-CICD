@@ -12,5 +12,4 @@ jobs:
         run: |
             ls $pwd
             ls ~
-            ls /home/runner/work/GithubActions/GithubActions
   
